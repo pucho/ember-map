@@ -1,0 +1,13 @@
+.map-canvas {
+	width: 500px;
+	height: 500px;
+	text-align: center;
+}
+
+.ember-list-view {
+  overflow: auto;
+  position: relative;
+}
+.ember-list-item-view {
+  position: absolute;
+}
